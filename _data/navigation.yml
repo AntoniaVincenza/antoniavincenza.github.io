@@ -7,3 +7,5 @@ main:
     url: /blog/
   - title: "Über mich"
     url: /about/
+  - title: "Kontakt"
+    url: /contact/
