@@ -6,9 +6,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/header-bg.jpg
   caption: "Willkommen auf meiner Website"
-excerpt: "Webentwickler und Designer aus Hamburg"
+excerpt: "Webentwicklung und Design"
 intro: 
-  - excerpt: 'Ich erstelle moderne Websites und digitale Lösungen mit Fokus auf Benutzerfreundlichkeit und sauberen Code.'
+  - excerpt: 'Hier geht es um moderne Websites und digitale Lösungen mit Fokus auf Benutzerfreundlichkeit und sauberen Code.'
 feature_row:
   - image_path: assets/images/portfolio-thumb.jpg
     alt: "Portfolio"
@@ -20,7 +20,7 @@ feature_row:
   - image_path: assets/images/blog-thumb.jpg
     alt: "Blog"
     title: "Blog"
-    excerpt: "Gedanken und Tutorials zu Webentwicklung und Design"
+    excerpt: "Überlegungen und Tutorials zu Webentwicklung und Design"
     url: "/blog/"
     btn_label: "Blog lesen"
     btn_class: "btn--primary"
@@ -37,7 +37,7 @@ feature_row:
 
 ## Willkommen auf meiner Website
 
-Hier finden Sie meine Projekte, Gedanken und Erfahrungen aus der Welt der Webentwicklung.
+Hier finden Sie meine Projekte, Überlegungen und Erfahrungen aus der Welt der Webentwicklung.
 
 {% include feature_row %}
 
