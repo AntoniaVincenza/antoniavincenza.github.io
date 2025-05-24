@@ -30,7 +30,7 @@ Für die westfälische Landeskirche entwickelte ich eine vollständige Datenvisu
 Das Hauptziel war es, eine benutzerfreundliche Plattform zu schaffen, die:
 - Intuitive Navigation bietet
 - Umfangreiche Daten bewältigt
-- Komplexe und einfache Darstellungen bietet
+- Komplexe und einfache Darstellungen zeigt
 - Animationen und geographische Visualisierungen verknüpft
 - Sicher und vertrauenswürdig arbeitet
 
