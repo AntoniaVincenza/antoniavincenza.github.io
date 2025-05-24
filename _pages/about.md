@@ -11,14 +11,14 @@ Webentwicklung mit funktionalem Code und ansprechendem Design.
 
 ### Projektumsetzungen
 
-Seit einiger Zeit entwickle ich moderne Websites und Webanwendungen. Neuere Beispiele:
+Seit einiger Zeit entwickle ich moderne Websites und Webanwendungen. Neuere Beispiele dazu sind:
 
-- **Interaktive Datenvisualisierung mit: **Dash/Plotly auf: **churchdemography.de
-- **Interaktive, DSGVO-konforme Anwendung zu Selfies und Bibelversen mit:** Postgres und Python auf: **bibleface.de
+- Interaktive Datenvisualisierung mit: Dash/Plotly auf: www.churchdemography.de
+- Interaktive, DSGVO-konforme Anwendung zu Selfies und Bibelversen mit: Postgres und Python auf: www.bibleface.de
 
 ### Der Ansatz
 
-Klar definierte Kernfunktionen und robuste Umsetzungen sollten eine positive NutzerInnen-Expierience mit sich bringen.
+Klar definierte Kernfunktionen und robuste Umsetzungen sollten eine positive Anwendungserfahrung mit sich bringen.
 
 ### Kontakt
 
