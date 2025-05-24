@@ -10,8 +10,8 @@ sidebar:
   - title: "Projektdauer"
     text: "4 Monate"
 gallery:
-  - url: /assets/images/churchdemography-1.jpg
-    image_path: /assets/images/churchdemography-1.jpg
+  - url: /assets/images/churchdemography-1.png
+    image_path: /assets/images/churchdemography-1.png
     alt: "Homepage Design"
   - url: /assets/images/ecommerce-2.jpg
     image_path: /assets/images/ecommerce-2.jpg
