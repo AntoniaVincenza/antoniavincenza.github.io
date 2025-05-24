@@ -12,30 +12,28 @@ header:
 
 ## Der Anfang einer Reise
 
-Als ich vor einem Jahr mit der Webentwicklung begann, hätte ich nie gedacht, dass ich so schnell mein erstes professionelles Projekt abschließen würde.
+Mit einem Projekt zur Datenvisualisierung in Plotly/Dash konnte gezeigt werden, dass aus einer umfangreichen Excel-Tabelle durch moderne Datenvisualisierung Einsichten in Trends und Entwicklungen zu gewinnen sind.
 
 ![Arbeitsplatz]({{ "/assets/images/workspace.jpg" | relative_url }}){: .align-center}
 
-### Was ich gelernt habe
+### Der Entwicklungsprozess
 
-Der Entwicklungsprozess lehrte mich wichtige Lektionen:
+Der Entwicklungsprozess zeigte:
 
-1. **Planung ist alles** - Ohne einen durchdachten Plan wird jedes Projekt chaotisch
-2. **User Experience zählt** - Die beste Technik nützt nichts, wenn die Nutzer sich nicht zurechtfinden
-3. **Testing ist unverzichtbar** - Was auf meinem Computer funktioniert, muss nicht überall laufen
+1. **"Saubere" Quelldaten sind das A und O** - Wenn die Quelldaten in geeigneter Form aufbereitet sind, lassen sich zügig Ergebnisse darstellen
+2. **Dash/Plotly-Templates verschaffen eine optimale Startgrundlage** - Die Hauptarbeit liegt dann 'nur noch' im Customizing der verschachtelten Callbacks.
+3. **Der Preis hohen Datenvolumens und gesteigerter Komplexität** - Bei sehr umfangreichen Datenimporten zeigen sich Performance-Probleme.
 
 ### Die Herausforderungen
 
-> "Der größte Fehler, den man machen kann, ist, immer zu befürchten, einen zu machen." - Elbert Hubbard
-
-Die schwierigste Phase war die Responsive-Optimierung. Mobile Geräte haben ihre eigenen Tücken.
+Performance-Probleme dürften bei größeren Datenmengen weiterhin ein Problem darstellen. Dennoch ist der Funktionsumfang von Plotly mit anderen Tools kaum darstellbar.
 
 ### Video-Tutorial
 
-Falls Sie Interesse haben, hier erkläre ich meinen Entwicklungsprozess:
+Falls Sie Interesse haben, hier erkläre ich die Nutzung der Anwendung:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BEISPIEL-VIDEO-ID" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/asD0ixK5WW4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Fazit
 
-Dieses Projekt war der Grundstein für meine Karriere als Webentwickler. Die Kombination aus technischen Herausforderungen und kreativem Design macht jeden Tag spannend.
+Dieses Projekt war der Grundstein für eine fortgeschrittene Produktentwicklung in Python.

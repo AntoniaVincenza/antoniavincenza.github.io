@@ -1,6 +1,6 @@
 # Site Settings
 title: "hubbertz Portfolio"
-name: "Max Hubbertz"
+name: "Hans Hubbertz"
 description: "Meine persönliche Website mit Projekten und Blog"
 url: "https://hubbertz.github.io"
 baseurl: ""
@@ -11,11 +11,11 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Author
 author:
-  name: "Max Hubbertz"
+  name: "Hans Hubbertz"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Webentwickler und Designer aus Hamburg"
-  location: "Hamburg, Deutschland"
-  email: "kontakt@hubbertz.de"
+  bio: "Webentwicklung und Design"
+  location: "Recklinghausen, Deutschland"
+  email: "hans@orbitate.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

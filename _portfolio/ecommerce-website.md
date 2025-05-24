@@ -23,14 +23,16 @@ gallery:
 
 ## Projektbeschreibung
 
-Für einen lokalen Händler entwickelte ich eine vollständige E-Commerce-Lösung, die sowohl auf Desktop- als auch auf mobilen Geräten optimal funktioniert.
+Für die westfälische Landeskirche entwickelte ich eine vollständige Datenvisualisierungs-Lösung für Kirchenkreise und Gemeinden, die sowohl auf Desktop- als auch auf mobilen Geräten optimal funktioniert.
 
 ### Herausforderungen
 
 Das Hauptziel war es, eine benutzerfreundliche Plattform zu schaffen, die:
 - Intuitive Navigation bietet
-- Schnelle Ladezeiten gewährleistet
-- Sicher und vertrauenswürdig wirkt
+- Umfangreiche Daten bewältigt
+- Komplexe und einfache Darstellungen bietet
+- Animationen und geographische Visualisierungen verknüpft
+- Sicher und vertrauenswürdig arbeitet
 
 ![Responsive Design]({{ "/assets/images/ecommerce-responsive.jpg" | relative_url }})
 
@@ -41,12 +43,12 @@ Die Website wurde mit modernen Webtechnologien entwickelt und bietet:
 **Frontend-Features:**
 - Responsives Design für alle Geräte
 - Progressive Web App Funktionalität
-- Optimierte Bilder und schnelle Ladezeiten
+- Breites Spektrum an Visualisierungsformen
 
 **Backend-Funktionen:**
-- Sichere Zahlungsabwicklung
-- Inventarverwaltung
-- Kundenkonten und Bestellhistorie
+- Sicheres Datenhandling
+- Überschaubarer Wartungsaufwand für Quellenupdates
+- Nachvollziehbare Datenkonvertierung
 
 {% include gallery caption="Screenshots der verschiedenen Bereiche der Website" %}
 
@@ -58,5 +60,4 @@ Hier können Sie die Website in Aktion sehen:
 
 ### Ergebnis
 
-Die Website führte zu einer **40% Steigerung** der Arbeit mit
-Demographiedaten im ersten Quartal nach dem Launch.
+Die Website bietet in schneller Weise Einsichten in Trends und Entwicklungen.
