@@ -1,17 +1,17 @@
 ---
-title: "E-Commerce Website"
-excerpt: "Moderne Online-Shop-Lösung mit responsivem Design und optimierter User Experience"
+title: "Website zur Datenvisualisierung"
+excerpt: "Moderne Datenvisualisierungs-Lösung mit responsivem Design und optimierter User Experience"
 header:
   image: /assets/images/ecommerce-header.jpg
   teaser: /assets/images/ecommerce-teaser.jpg
 sidebar:
   - title: "Technologien"
-    text: "HTML5, CSS3, JavaScript, PHP, MySQL"
+    text: "HTML5, CSS3, JavaScript, Python, Ploty/Dash"
   - title: "Projektdauer"
-    text: "3 Monate"
+    text: "4 Monate"
 gallery:
-  - url: /assets/images/ecommerce-1.jpg
-    image_path: /assets/images/ecommerce-1.jpg
+  - url: /assets/images/churchdemography-1.jpg
+    image_path: /assets/images/churchdemography-1.jpg
     alt: "Homepage Design"
   - url: /assets/images/ecommerce-2.jpg
     image_path: /assets/images/ecommerce-2.jpg
