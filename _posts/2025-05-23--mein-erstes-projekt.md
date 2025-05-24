@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/blog-teaser.jpg
 ---
 
-## Der Anfang einer Reise
+## Die Visualsierung von Daten
 
 Mit einem Projekt zur Datenvisualisierung in Plotly/Dash konnte gezeigt werden, dass aus einer umfangreichen Excel-Tabelle durch moderne Datenvisualisierung Einsichten in Trends und Entwicklungen zu gewinnen sind.
 
