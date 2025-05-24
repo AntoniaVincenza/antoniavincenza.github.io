@@ -8,7 +8,7 @@ header:
 excerpt: "Willkommen auf meiner Website! Hier teile ich meine Projekte und
 Erfahrungen."
 intro: 
-  - excerpt: 'Ich bin Webentwickler und Designer mit Leidenschaft für sauberen Code und ansprechendes Design.'
+  - excerpt: 'Webentwicklung und Design mit funktionalem Code und ansprechendem Design.'
 feature_row:
   - image_path: assets/images/projekt1-thumb.jpg
     alt: "Projekt 1"
@@ -19,8 +19,8 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: assets/images/projekt2-thumb.jpg
     alt: "Projekt 2"
-    title: "Mobile App Design"
-    excerpt: "UI/UX Design für iOS und Android App"
+    title: "Relaunch von bibleface.de"
+    excerpt: "eine DSGVO-konforme Umsetzung"
     url: "/portfolio/mobile-app/"
     btn_label: "Mehr erfahren"
     btn_class: "btn--primary"
@@ -32,4 +32,4 @@ feature_row:
 
 ## Neueste Blog-Artikel
 
-Hier finden Sie meine aktuellsten Gedanken zu Webentwicklung und Design.
+Hier finden Sie meine aktuellsten Beiträge zu Webentwicklung und Design.

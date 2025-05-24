@@ -5,22 +5,20 @@ layout: single
 author_profile: true
 ---
 
-## Hallo, ich bin Hans Hubbertz
+## Hallo, dies ist die Website von Hans Hubbertz
 
-Webentwickler und Designer aus Recklinghausen mit Leidenschaft für sauberen Code und ansprechendes Design.
+Webentwicklung mit funktionalem Code und ansprechendem Design.
 
-### Mein Werdegang
+### Projektumsetzungen
 
-Seit einiger Zeit entwickle ich moderne Websites und Webanwendungen. Meine Expertise umfasst:
+Seit einiger Zeit entwickle ich moderne Websites und Webanwendungen. Neuere Beispiele:
 
-- **Frontend-Entwicklung:** HTML5, CSS3, JavaScript, React
-- **Backend-Entwicklung:** PHP, Python, Node.js
-- **Design:** UI/UX Design, Responsive Design
-- **Tools:** Git, Webpack, Sass, Jekyll
+- **Interaktive Datenvisualisierung mit: **Dash/Plotly auf: **churchdemography.de
+- **Interaktive, DSGVO-konforme Anwendung zu Selfies und Bibelversen mit:** Postgres und Python auf: **bibleface.de
 
-### Mein Ansatz
+### Der Ansatz
 
-Ich glaube daran, dass gute Websites sowohl funktional als auch ästhetisch ansprechend sein sollten. Jedes Projekt beginnt mit dem Verständnis der Nutzerbedürfnisse.
+Klar definierte Kernfunktionen und robuste Umsetzungen sollten eine positive NutzerInnen-Expierience mit sich bringen.
 
 ### Kontakt
 
