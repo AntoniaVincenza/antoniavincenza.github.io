@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Mein erstes großes Webprojekt"
+title: "Ein erstes großes Webprojekt"
 date: 2024-01-15
 categories: [Webentwicklung]
 tags: [HTML, CSS, JavaScript, Portfolio]
@@ -36,4 +36,4 @@ Falls Sie Interesse haben, hier erkläre ich die Nutzung der Anwendung:
 
 ### Fazit
 
-Dieses Projekt war der Grundstein für eine fortgeschrittene Produktentwicklung in Python.
+Dieses Projekt war der Grundstein für weitere fortgeschrittene Produktentwicklungen in Python.
