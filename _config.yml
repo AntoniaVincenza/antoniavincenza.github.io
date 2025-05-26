@@ -103,14 +103,3 @@ defaults:
       layout: single
       author_profile: false
       share: true
-  # _blog
-  - scope:
-      path: "_blog"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
