@@ -13,14 +13,14 @@ feature_row:
   - image_path: assets/images/portfolio-thumb.jpg
     alt: "Portfolio"
     title: "Meine Projekte"
-    excerpt: "Entdecken Sie meine neuesten Webentwicklungs-Projekte"
+    excerpt: "Die neuesten Webentwicklungs-Projekte"
     url: "/portfolio/"
     btn_label: "Portfolio ansehen"
     btn_class: "btn--primary"
   - image_path: assets/images/blog-thumb.jpg
     alt: "Blog"
     title: "Blog"
-    excerpt: "Überlegungen und Tutorials zu Webentwicklung und Design"
+    excerpt: "Webentwicklung und Design"
     url: "/blog/"
     btn_label: "Blog lesen"
     btn_class: "btn--primary"
