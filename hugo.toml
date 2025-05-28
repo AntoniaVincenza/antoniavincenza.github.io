@@ -1,0 +1,46 @@
+baseURL = 'https://hubbertz.github.io'
+languageCode = 'de-de'
+title = 'LOCAL SHIT WEBSITE'
+
+[module]
+  [[module.imports]]
+    path = "github.com/imfing/hextra"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  [params.navbar]
+    displayTitle = true
+    displayLogo = false
+  
+  [params.footer]
+    displayCopyright = true
+
+[menu]
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 1
+  
+  [[menu.main]]
+    name = "Recipes & Tutorials"
+    url = "/recipes-tutorials/"
+    weight = 2
+    
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+    
+  [[menu.main]]
+    name = "Network"
+    url = "/network/"
+    weight = 4
+    
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5

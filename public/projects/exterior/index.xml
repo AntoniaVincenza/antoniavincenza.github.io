@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LOCAL SHIT WEBSITE – Exterior Projects</title>
+    <link>http://localhost:1313/projects/exterior/</link>
+    <description>Recent content in Exterior Projects on LOCAL SHIT WEBSITE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    
+	  <atom:link href="http://localhost:1313/projects/exterior/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Cladding</title>
+      <link>http://localhost:1313/projects/exterior/cladding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/exterior/cladding/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Cladding&lt;/h1&gt;&lt;p&gt;Verkleidungsprojekte und Materialkonzepte.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Fassades</title>
+      <link>http://localhost:1313/projects/exterior/fassades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/exterior/fassades/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Fassades&lt;/h1&gt;&lt;p&gt;Fassadenprojekte und Gestaltungskonzepte.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
