@@ -3,7 +3,7 @@ title: "Case Studies"
 type: docs
 ---
 
-# Case Studies
+# Fall-Studie
 
 ## Genneper Hoeve, Eindhoven
 
