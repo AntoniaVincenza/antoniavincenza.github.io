@@ -15,7 +15,7 @@ type: docs
 
 
 ### Background
-Die Genneper Hoeve ist ein biodinamischer Betrieb mit rund 100 Milchkühen in Eindhoven. 
+Die Genneper Hoeve ist ein biodynamischer Betrieb mit rund 100 Milchkühen in Eindhoven. 
 
 ### Material Experiments
 Für die Materialexperimente dieser Studie stellte der Betrieb zur Verfügung:
