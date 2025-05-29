@@ -3,7 +3,7 @@ title: "LOCAL SHIT WEBSITE"
 type: docs
 ---
 
-# LOCAL SHIT WEBSITE
+# LOCAL SHIT
 
 ![Local Shit Website](/images/Local_Shit_Horizontal.jpg)
 
