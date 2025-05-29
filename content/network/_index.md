@@ -5,15 +5,17 @@ type: docs
 
 # Network
 
-## Liste/Map mit Partnern
+## [Regional Material Availability](/network/regional-availability/)
+Verfügbarkeit von Materialien nach Regionen in den Niederlanden
 
-Übersicht über Partner und Netzwerke in der Region.
+## [Dairy Farms by Province](/network/dairy-farms/)
+Übersicht der Milchviehbetriebe nach Provinzen
 
 ## [Architects](/network/architects/)
-Architekten und Planungsbüros
+Partner-Architekten und Planungsbüros
 
 ## [Farms](/network/farms/)
 Landwirtschaftliche Betriebe und Partner
 
 ## Reach Out
-Kontaktmöglichkeiten für neue Partnerschaften.
+Kontaktmöglichkeiten für neue Partnerschaften und Zusammenarbeit.
