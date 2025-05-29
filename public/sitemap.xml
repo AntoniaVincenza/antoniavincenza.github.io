@@ -4,13 +4,23 @@
   <url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/recipes-tutorials/adobe-bricks/</loc>
+  </url><url>
     <loc>http://localhost:1313/network/architects/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/interior/bathroom/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/case-studies/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/exterior/cladding/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/contemporary-management/</loc>
+  </url><url>
+    <loc>http://localhost:1313/network/dairy-farms/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/definitions-origins/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/exterior/</loc>
   </url><url>
@@ -18,20 +28,40 @@
   </url><url>
     <loc>http://localhost:1313/projects/exterior/fassades/</loc>
   </url><url>
+    <loc>http://localhost:1313/recipes-tutorials/industrial-applications/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/interior/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/interior/kitchen/</loc>
   </url><url>
+    <loc>http://localhost:1313/research/future-development/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/recipes-tutorials/calculations/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/materials-techniques/</loc>
+  </url><url>
     <loc>http://localhost:1313/network/</loc>
+  </url><url>
+    <loc>http://localhost:1313/recipes-tutorials/plaster-recipes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/production-concepts/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
     <loc>http://localhost:1313/recipes-tutorials/</loc>
   </url><url>
+    <loc>http://localhost:1313/research/references/</loc>
+  </url><url>
+    <loc>http://localhost:1313/network/regional-availability/</loc>
+  </url><url>
     <loc>http://localhost:1313/research/</loc>
   </url><url>
+    <loc>http://localhost:1313/research/sustainability/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/nitrogen-crisis/</loc>
   </url>
 </urlset>

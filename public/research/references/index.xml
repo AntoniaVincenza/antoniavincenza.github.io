@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LOCAL SHIT WEBSITE – References &amp; Bibliography</title>
+    <link>http://localhost:1313/research/references/</link>
+    <description>Recent content in References &amp; Bibliography on LOCAL SHIT WEBSITE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    
+	  <atom:link href="http://localhost:1313/research/references/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
