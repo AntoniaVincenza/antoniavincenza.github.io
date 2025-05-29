@@ -5,6 +5,8 @@ type: docs
 
 # LOCAL SHIT WEBSITE
 
+![Local Shit Website](/images/Local_Shit_Horizontal.jpg)
+
 Eine Plattform für lokale, nachhaltige Baumaterialien - speziell die innovative Nutzung von Kuhmist als Baustoff.
 
 ## 🔬 [Research & Publications](/research/)
