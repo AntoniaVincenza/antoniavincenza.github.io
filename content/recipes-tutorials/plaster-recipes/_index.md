@@ -3,9 +3,8 @@ title: "Plaster Recipes"
 type: docs
 ---
 
-# Plaster Recipes
 
-## Basic Clay Plaster (Heca Recipe)
+## Basic Clay Plaster 
 
 **Composition:**
 - 1 part clay
@@ -17,7 +16,7 @@ Apply as finish coat for water resistance and binding.
 
 *Source: Heca, F. 2020*
 
-## Extended Plaster Recipe (Liloia)
+## Extended Plaster Recipe 
 
 **Composition:**
 - 3 (5 gallon) buckets of 1/16 inch sifted sand
@@ -35,7 +34,9 @@ Apply as finish coat for water resistance and binding.
 
 *Source: Liloia, Z. 2024*
 
-## Dung Slurry for Waterproofing
+## Finishes
+
+**Dung Slurry:**
 
 **Application:**
 A water-resistant shell can be made by creating a slurry. Cowdung is mixed with water to form a paste and then applied on top of plasters and floors.
@@ -44,6 +45,17 @@ A water-resistant shell can be made by creating a slurry. Cowdung is mixed with 
 If applied carelessly, it can result in mechanical weathering and decay of the crust.
 
 *Source: Gur-Arieh et al, 2018*
+
+**Double boiled linseed oil:**
+
+Take a brush or spray bottle and slowly apply the oil. The material will absorb it quite fast. You
+will need to apply multiple layers to avoid stains.
+Appearance: Very dark compared to other finishing methods.
+Waterproof Ability: High - recommended for areas that are exposed to a lot of water
+Price: €€
+
+![Local Shit Website](/images/compact_oiled.jpg)
+Above: Compact cow manure plaster finished with double boiled linseed oil
 
 ## Application Tips
 

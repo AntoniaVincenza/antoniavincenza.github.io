@@ -1,49 +1,48 @@
 ---
-title: "LOCAL SHIT WEBSITE"
+title: "LOCAL SHIT CONSTRUCTION"
 type: docs
 ---
 
 # LOCAL SHIT
 
-![Local Shit Website](/images/Local_Shit_Horizontal.jpg)
+![Local Shit Construction](/images/Local_Shit_Horizontal.jpg)
 
-Eine Plattform für lokale, nachhaltige Baumaterialien - speziell die innovative Nutzung von Kuhmist als Baustoff.
+A platform for local, abundant building materials - especially for the innovative use of cow manure as building material.
 
 ##  [Research & Publications](/research/)
 Wissenschaftliche Forschung zu nachhaltigen Baumaterialien
-- [Definitions & Origins](/research/definitions-origins/) - Grundlagen und Herkunft
-- [Materials & Techniques](/research/materials-techniques/) - Materialwissenschaft
-- [Sustainability Studies](/research/sustainability/) - Umweltauswirkungen  
-- [Nitrogen Crisis Research](/research/nitrogen-crisis/) - Stickstoffproblematik NL
-- [Future Development](/research/future-development/) - Zukunftsperspektiven
+- [Definitions & Origins](/research/definitions-origins/) 
+- [Materials & Techniques](/research/materials-techniques/)
+- [Sustainability Studies](/research/sustainability/)   
+- [Nitrogen Crisis Research](/research/nitrogen-crisis/) 
+- [Future Development](/research/future-development/)
 
 ##  [Recipes & Tutorials](/recipes-tutorials/)
-Praktische Anleitungen und Rezepte
-- [Adobe Bricks](/recipes-tutorials/adobe-bricks/) - Lehmsteinherstellung
-- [Plaster Recipes](/recipes-tutorials/plaster-recipes/) - Verschiedene Putzrezepte
-- [Industrial Applications](/recipes-tutorials/industrial-applications/) - Gewerbliche Anwendung
-- [Calculations](/recipes-tutorials/calculations/) - Materialberechnungen
+- [Adobe Bricks](/recipes-tutorials/adobe-bricks/) 
+- [Plaster Recipes](/recipes-tutorials/plaster-recipes/) 
+- [Industrial Applications](/recipes-tutorials/industrial-applications/) 
+- [Calculations](/recipes-tutorials/calculations/) 
 
 ##  [Projects](/projects/)
 Dokumentierte Projekte und Anwendungen
-- [Case Studies](/projects/case-studies/) - Genneper Hoeve & Award Winner
-- [Production Concepts](/projects/production-concepts/) - Verschiedene Produktionsansätze
-- [Exterior Projects](/projects/exterior/) - Außenanwendungen
-- [Interior Projects](/projects/interior/) - Innenanwendungen
+- [Case Studies](/projects/case-studies/) 
+- [Production Concepts](/projects/production-concepts/) 
+- [Exterior Projects](/projects/exterior/)
+- [Interior Projects](/projects/interior/) 
 
 ##  [Network](/network/)  
-Partnernetzwerk und regionale Verfügbarkeit
-- [Regional Availability](/network/regional-availability/) - Materialverfügbarkeit NL
-- [Dairy Farms by Province](/network/dairy-farms/) - Milchviehbetriebe nach Provinzen
+- [Regional Availability](/network/regional-availability/) - 
+- [Dairy Farms by Province](/network/dairy-farms/) 
 - [Architects](/network/architects/) - Partner-Architekten
-- [Farms](/network/farms/) - Landwirtschaftspartner
+- [Farms](/network/farms/) 
+- [Other](/network/other/) 
+
 
 ##  [About](/about/)
-Projektgeschichte und Vision
-- Story: How it came to life - Entstehungsgeschichte
-- Philosophy behind Open Source - Open Source Philosophie  
-- Team & Acknowledgements - Danksagungen
-- Contact & Reach Out - Kontaktmöglichkeiten
+- Story: How it came to life 
+- Philosophy behind Open Source  
+- Team & Acknowledgements 
+- Contact & Reach Out 
 
 ---
 
