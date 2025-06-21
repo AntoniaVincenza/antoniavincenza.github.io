@@ -3,7 +3,6 @@ title: "About"
 type: docs
 ---
 
-# About
 
 ## Story: How it came to life
 
