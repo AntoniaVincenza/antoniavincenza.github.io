@@ -7,14 +7,18 @@ type: docs
 ## Basic Plaster 
 
 **Composition:**
-- 1 part clay
+- 1 part clay (rich soil) 
 - 2.5 parts sand  
 - 3 parts fresh cow dung
+
+Attention: Depending on the amount of clay in your soil, you need to adapt the recipe. This recipe assumes a clay amount of 30-40%. You can test the amount by using the ribbon technique.
 
 **Process:**
 
 1. Dissolve the clay in water over night
 2. Sieve the sand at 20/30 m
+3. Remove silt from sand 
+4. Mix all ingredients well until no more lumps
 
 
 **Application:**
@@ -63,8 +67,9 @@ Price: €€
 ![Local Shit Website](/images/compact_oiled.jpg)
 Above: Compact cow manure plaster finished with double boiled linseed oil
 
-## Application Tips
+## Tips
 
+- Local clay can be easily found at construction / escavation sites
 - Use fresh cowdung for best water resistance
 - Apply in multiple thin coats rather than one thick coat
 - Allow proper drying time between coats
