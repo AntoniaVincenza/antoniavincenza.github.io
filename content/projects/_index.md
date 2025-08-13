@@ -3,9 +3,8 @@ title: "Projects"
 type: docs
 ---
 
-# Projects
 
-Übersicht über Projekte und Anwendungen nachhaltiger Baumaterialien.
+Overview of projects and studies
 
 ## [Case Studies](/projects/case-studies/)
 Dokumentierte Projekte und Experimente
@@ -19,4 +18,4 @@ Dokumentierte Projekte und Experimente
 - [Kitchen](/projects/interior/kitchen/)
 
 ## [Production Concepts](/projects/production-concepts/)
-Verschiedene Produktionsansätze und Logistikkonzepte
+Theoretical upscaling of production.
