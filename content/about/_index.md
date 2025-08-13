@@ -4,109 +4,107 @@ type: docs
 ---
 
 
-## Story: How it came to life
-
-Das **Local Shit** Projekt entstand aus der Erkenntnis, dass die Niederlande jährlich 60 Millionen Tonnen Kuhmist produzieren - ein gewaltiges Abfallproblem, das gleichzeitig eine enorme Ressource darstellt.
+The **Local Shit** project was born out of the realization that the Netherlands produces 60 million tons of cow dung annually - a massive waste problem that also represents a tremendous resource.
 
 ### The Challenge
-Die intensive Tierhaltung in den Niederlanden mit über 15 Millionen Schweinen und Kühen führt zu:
-- Stickstoffkrise und Umweltproblemen
-- Überschuss an Gülle ohne ausreichende Verwendung
-- Strenge staatliche Regulierungen
-- Suche nach nachhaltigen Lösungen
+Intensive animal farming in the Netherlands, with over 15 million pigs and cows, leads to:
+- Nitrogen crisis and environmental problems
+- Excess manure without sufficient use
+- Strict government regulations
+- Search for sustainable solutions
 
-### The Opportunity  
-Traditionelle Verwendung von Kuhmist in Baumaterialien in Asien und Afrika zeigt:
-- Wasserdichte Eigenschaften durch mikrobielle Aggregate
-- Stabilisierende Wirkung in Lehmbauweisen
-- Nachhaltige Alternative zu industriellen Baustoffen
-- Lokale Kreislaufwirtschaft möglich
+### The Opportunity
+Traditional use of cow dung in building materials in Asia and Africa demonstrates:
+- Waterproofing properties due to microbial aggregates
+- Stabilizing effect in earthen construction
+- Sustainable alternative to industrial building materials
+- Local circular economy possible
 
 ## Philosophy behind Open Source
 
-Unsere Philosophie basiert auf **offener Zusammenarbeit** und **Wissensaustausch**:
+Our philosophy is based on **open collaboration** and **knowledge sharing**:
 
 ### Open Knowledge
-- Alle Forschungsergebnisse frei verfügbar
-- Rezepte und Anleitungen ohne Beschränkungen
-- Transparente Dokumentation aller Experimente
-- Fehler und Lernerfahrungen geteilt
+- All research results freely available
+- Recipes and instructions without restrictions
+- Transparent documentation of all experiments
+
 
 ### Local Solutions
-- Regionale Materialien nutzen
-- Kurze Transportwege fördern  
-- Lokale Wirtschaftskreisläufe stärken
-- Anpassung an lokale Bedingungen
+- Use regional materials
+- Promote short transport routes
+- Strengthen local economic cycles
+- Adaptation to local conditions
 
 ### Collaborative Innovation
-- Farmer, Architekten, Forscher zusammenbringen
-- Interdisziplinäre Ansätze fördern
-- Praktische Experimente unterstützen
-- Skalierbare Lösungen entwickeln
+- Farmers, architects, researchers, etc.
+- Promoting interdisciplinary approaches
+- Supporting practical experiments
+- Developing scalable solutions
 
 ## Impact Vision
 
 ### Environmental Impact
-- Reduktion von Stickstoffemissionen
-- Vermeidung von Gülle-Überschuss
-- CO₂-ärmere Baumaterialien
-- Kreislaufwirtschaft fördern
+- Reducing nitrogen emissions
+- Avoiding excess manure
+- Lower-carbon building materials
+- Promoting a circular economy
 
-### Economic Impact  
-- Neue Einkommensquellen für Farmer
-- Lokale Wertschöpfung
-- Reduzierte Materialkosten
-- Innovative Geschäftsmodelle
+### Economic Impact
+- New sources of income for farmers
+- Local added value
+- Reduced material costs
+- Innovative business models
 
 ### Social Impact
-- Wissenstransfer zwischen Kulturen
-- Traditionelle Techniken wiederentdecken
-- Gemeinschaftliche Lösungen entwickeln
-- Nachhaltige Lebensweise fördern
+- Transferring knowledge between cultures
+- Rediscovering traditional techniques
+- Developing collaborative solutions
+- Promoting sustainable lifestyles
 
-## Recognition
+### Recognition
 
-**Winner of Kazerne Design Award 2025**
+**Winner of the Kazerne Design Award 2025**
 
-Das Projekt wurde für seinen innovativen Ansatz zur Lösung der niederländischen Stickstoffkrise durch nachhaltige Baumaterialien ausgezeichnet.
+The project was recognized for its innovative approach to solving the Dutch nitrogen crisis through sustainable building materials.
 
-## Team & Acknowledgements
+https://kazerne.com/en/2025/05/14/kda2025/
+
+https://dutchdesigndaily.com/stories/antonia-vincenza-schreiber-winner-kazerne-design-award-2025/
+
+https://architectenweb.nl/nieuws/artikel.aspx?id=59464
+
+
+## Team & Acknowledgments
 
 ### Research & Development
 **Antonia Vincenza** - Project Lead & Research
 
-### Special Thanks
+### Special thanks
 - **Age Opdam**, Genneper Hoeve Eindhoven - Farmer & Material Provider
-- **Paul Willems**, Arla - Farm Sustainability Coordinator Central Europe  
-- **Martijn den Besten**, Friesland Campina - Climate &WiederholenHHWeiterBearbeitenbash# About Section erweitern (fortsetzung)
-cat >> content/about/_index.md << 'EOF'
+- **Paul Willems**, Arla - Farm Sustainability Coordinator Central Europe
 - **Martijn den Besten**, Friesland Campina - Climate & Nature Project Manager
 - **Cyriel Heemels** - Architect & Project Manager
 - **Nuno Vasconcelos** - Architect
-- **Joost Botteram**, Prehistorisch Dorp Eindhoven - Head Technical Service
+- **Joost Botteram**, Prehistoric Dorp Eindhoven - Head Technical Service
 
-### Documentation & Design
-- **Theodor Winter** - Photography
-- **Benedetta Pompili** - Editorial Design
-- **Block Design, Palermo** - Printing
 
 ## Reach Out
 
-Interessiert an Zusammenarbeit oder haben Sie Fragen zum Projekt?
+Interested in collaborating or do you have questions about the project? Contact: antoniavincenza@icloud.com
 
 ### Contact Options
-- **Research Collaboration** - Für wissenschaftliche Kooperationen
-- **Farmer Partnerships** - Für Landwirte mit Gülle-Überschuss
-- **Architect Network** - Für Planer und Architekten
-- **Material Testing** - Für praktische Experimente
-- **Scaling Opportunities** - Für industrielle Anwendungen
+- **Research Collaboration** - For scientific collaborations
+- **Farmer Partnerships** - For farmers with surplus manure
+- **Architect Network** - For planners and architects
+- **Material Testing** - For practical experiments
+- **Scaling Opportunities** - For industrial applications
 
 ### Get Involved
-- **Material Experiments** - Eigene Tests durchführen
-- **Regional Networks** - Lokale Partnerschaften aufbauen
-- **Knowledge Sharing** - Erfahrungen austauschen
-- **Policy Development** - Regulatorische Rahmenbedingungen verbessern
+- **Material Experiments** - Conduct your own tests
+- **Regional Networks** - Build local partnerships
+- **Knowledge Sharing** - Exchange experiences
+- **Policy Development** - Improve the regulatory framework
 
 *"Cowdung is a highly underrated material. Especially in places like the Netherlands, where there is an excess quantity available, its properties and benefits for the sustainable construction sector should be further researched and experimented with."*
 
-**Copyright Antonia Vincenza, 2025**
