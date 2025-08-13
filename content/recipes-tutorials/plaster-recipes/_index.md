@@ -4,12 +4,18 @@ type: docs
 ---
 
 
-## Basic Clay Plaster 
+## Basic Plaster 
 
 **Composition:**
 - 1 part clay
 - 2.5 parts sand  
 - 3 parts fresh cow dung
+
+**Process:**
+
+1. Dissolve the clay in water over night
+2. Sieve the sand at 20/30 m
+
 
 **Application:**
 Apply as finish coat for water resistance and binding.
