@@ -1,6 +1,6 @@
 baseURL = 'https://antoniavincenza.github.io'
 languageCode = 'de-de'
-title = 'LOCAL SHIT'
+title = 'LOCAL SHIT CONSTRUCTION'
 
 [module]
   [[module.imports]]

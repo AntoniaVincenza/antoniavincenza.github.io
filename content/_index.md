@@ -5,7 +5,7 @@ type: docs
 
 
 
-![Local Shit Construction](/images/Local_Shit_Horizontal.jpg)
+(/images/Local_Shit_Horizontal.jpg)
 
 A platform for local, abundant building materials - especially for the innovative use of cow manure as building material.
 
