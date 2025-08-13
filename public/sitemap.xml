@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/recipes-tutorials/adobe-bricks/</loc>
@@ -35,8 +37,6 @@
     <loc>http://localhost:1313/projects/interior/kitchen/</loc>
   </url><url>
     <loc>http://localhost:1313/research/future-development/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/recipes-tutorials/calculations/</loc>
   </url><url>

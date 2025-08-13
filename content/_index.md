@@ -1,11 +1,11 @@
 ---
-title: "LOCAL SHIT CONSTRUCTION"
+
 type: docs
 ---
 
 
 
-(/images/Local_Shit_Horizontal.jpg)
+![Local Shit Construction](/images/Local_Shit_Horizontal.jpg)
 
 A platform for local, abundant building materials - especially for the innovative use of cow manure as building material.
 
@@ -44,6 +44,7 @@ Dokumentierte Projekte und Anwendungen
 - Contact & Reach Out 
 
 ---
+
 
 *"Cowdung is a highly underrated material. Especially in places like the Netherlands, where there is an excess quantity available, its properties and benefits for the sustainable construction sector should be further researched and experimented with."*
 
