@@ -3,19 +3,18 @@ title: "Network"
 type: docs
 ---
 
-# Network
 
 ## [Regional Material Availability](/network/regional-availability/)
-Verfügbarkeit von Materialien nach Regionen in den Niederlanden
+Availabity of materials in the Netherlands
 
 ## [Dairy Farms by Province](/network/dairy-farms/)
-Übersicht der Milchviehbetriebe nach Provinzen
+Overview of dairy farms in the Netherlands
 
 ## [Architects](/network/architects/)
-Partner-Architekten und Planungsbüros
+Partnering Architects
 
 ## [Farms](/network/farms/)
-Landwirtschaftliche Betriebe und Partner
+Collaborating Farms
 
 ## Reach Out
-Kontaktmöglichkeiten für neue Partnerschaften und Zusammenarbeit.
+Contact antoniavincena@icloud.com for all types of collaborations.
