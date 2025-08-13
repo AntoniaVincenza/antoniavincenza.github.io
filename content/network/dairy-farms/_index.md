@@ -3,9 +3,8 @@ title: "Dairy Farms by Province"
 type: docs
 ---
 
-# Dairy Farms by Province
 
-Schlüsselzahlen der Milchviehhaltung nach Provinzen (2023 Daten):
+Key dairy farming figures by province (2023 data):
 
 ## Northern Netherlands
 
