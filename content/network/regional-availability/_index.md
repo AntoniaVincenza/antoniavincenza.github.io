@@ -28,8 +28,10 @@ Regional variations enable locally optimized formulations based on:
 
 
 - **Clay** - Find closest escavation site or dig around 50 cm in the ground close to a river or costal area
-- **Availability** - Look at the regional material site for information about soil types
-- **Quality** - Best results are achieved with very clay-rich soils
+- **Soil Quality** - Best results are achieved with very clay-rich soils
+- **Cow Manure**  - Conventional manure smells stronger than biodynamic manure and might contain more grains than fibers. Both types are suitable and achieve good results.
+- **Sand** - Local sand can be sourced from rivers or sand rich soils. When working with local sand, it is important to remove silt before mixing. In larger projects it is recommended to buy already sieved sand.
+
 
 
 ## Provincial Material Mapping
