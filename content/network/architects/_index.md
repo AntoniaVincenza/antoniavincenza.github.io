@@ -3,9 +3,9 @@ title: "Architects"
 type: docs
 ---
 
-# Architects
 
-Partner-Architekten und Planungsbüros.
+Fraai Architecten
+http://fraai-architecten.com
 
 ## Reach Out
-Kontakt für Zusammenarbeit.
+Contact antoniavincenza@icloud.com for collaborations.
