@@ -3,14 +3,14 @@ title: "LOCAL SHIT CONSTRUCTION"
 type: docs
 ---
 
-# LOCAL SHIT
+
 
 ![Local Shit Construction](/images/Local_Shit_Horizontal.jpg)
 
 A platform for local, abundant building materials - especially for the innovative use of cow manure as building material.
 
 ##  [Research & Publications](/research/)
-Wissenschaftliche Forschung zu nachhaltigen Baumaterialien
+Scientific research about cow manure in architecture
 - [Definitions & Origins](/research/definitions-origins/) 
 - [Materials & Techniques](/research/materials-techniques/)
 - [Sustainability Studies](/research/sustainability/)   
@@ -26,7 +26,6 @@ Wissenschaftliche Forschung zu nachhaltigen Baumaterialien
 ##  [Projects](/projects/)
 Dokumentierte Projekte und Anwendungen
 - [Case Studies](/projects/case-studies/) 
-- [Production Concepts](/projects/production-concepts/) 
 - [Exterior Projects](/projects/exterior/)
 - [Interior Projects](/projects/interior/) 
 
@@ -43,15 +42,6 @@ Dokumentierte Projekte und Anwendungen
 - Philosophy behind Open Source  
 - Team & Acknowledgements 
 - Contact & Reach Out 
-
----
-
-## Key Facts
-
-** 60 Million Tons** - Jährliche Kuhmistproduktion in den Niederlanden  
-** 11.6 Billion m²** - Theoretisch mögliche Putzfläche bei 7mm Dicke  
-** Award Winner** - Kazerne Design Award 2025  
-** Sustainable** - CO₂-reduzierte Alternative zu Industriematerialien  
 
 ---
 
