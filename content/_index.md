@@ -48,4 +48,4 @@ Dokumentierte Projekte und Anwendungen
 
 *"Cowdung is a highly underrated material. Especially in places like the Netherlands, where there is an excess quantity available, its properties and benefits for the sustainable construction sector should be further researched and experimented with."*
 
-**Ein Projekt von Antonia Vincenza, 2025**
+

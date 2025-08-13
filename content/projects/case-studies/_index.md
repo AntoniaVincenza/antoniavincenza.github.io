@@ -3,9 +3,10 @@ title: "Case Studies"
 type: docs
 ---
 
-# Fall-Studie
 
 ## Genneper Hoeve, Eindhoven
+
+Can we create a durable plaster from locally sourced materials within 1 km radius? Due to the construction of their new restaurant, the Genneper Hoeve escavated large amounts of soil which contained layers of clay as well as sand. Since the farm is producing milk and meat products, cow manure was also locally available.
 
 ![Local Shit Website](/images/genneperhoeveA7409871.jpg)
 ![Local Shit Website](/images/genneperhoeveA7409926.jpg)
@@ -15,38 +16,33 @@ type: docs
 
 
 ### Background
-Die Genneper Hoeve ist ein biodynamischer Betrieb mit rund 100 Milchkühen in Eindhoven. 
+Genneper Hoeve is a biodynamic farm with around 100 dairy cows in Eindhoven.
 
 ### Material Experiments
-Für die Materialexperimente dieser Studie stellte der Betrieb zur Verfügung:
-- **Tonreichen Boden** - ausgegraben beim Bau ihres neuen Proeflokaal
-- **Kompakten Kuhmist** - gelagert in Haufen im Freien  
-- **Kuhmist-Gülle** - gelagert im Keller des Kuhstalls
+For the material experiments in this study, the farm provided:
+- **Clay-rich soil** - excavated during the construction of their new proeflokaal
+- **Sand-rich soil** - also escavated during the construction of the proeflokaal
+- **Compact cow dung** - stored in piles outdoors
+- **Cow dung slurry** - stored in the basement of the cowshed
 
 ### Contact
 Age Opdam, 2024
 
-## Award Recognition
-
-**Winner of Kazerne Design Award 2025**
-
-Das Projekt zur Nutzung von Kuhmist als nachhaltiges Baumaterial wurde mit dem Kazerne Design Award 2025 ausgezeichnet.
-
 ## Research Methodology
 
-Die Experimente konzentrierten sich auf:
-1. **Materialsammlung** von lokalen Betrieben
-2. **Kompositionstest** verschiedener Mischungen
-3. **Wasserwiderstandstests** 
-4. **Festigkeitsprüfungen**
-5. **Nachhaltigkeitsanalysen**
+The experiments focused on:
+1. **Material collection** from local sources
+2. **Composition testing** of various mixtures
+3. **Water resistance tests**
+4. **Strength tests**
+5. **Sustainability analyses**
 
 ## Documentation
 
-Alle Experimente wurden systematisch dokumentiert mit:
-- Fotografischer Dokumentation
-- Materialanalysen  
-- Leistungstests
-- Umweltauswirkungsberechnung
+All experiments were systematically documented with:
+- Photographic documentation
+- Material analyses
+- Performance tests
+- Environmental impact calculations
 
-*Fotografie: Theodor Winter*
+*Photography: Theodor Winter*
