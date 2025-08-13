@@ -3,9 +3,12 @@ title: "Farms"
 type: docs
 ---
 
-# Farms
 
-Landwirtschaftliche Partner und Betriebe.
+## Collaborating Farms
+
+Genneper Hoeve - Eindhoven, NL
+
+Arla Foods -  Deurne, NL
 
 ## Reach Out
-Kontakt für Kooperationen.
+Are you a farmer and would like to provide cow manure or other natural materials for construction projects? Please contact antoniavincenza@icloud.com to be listed on this website.
