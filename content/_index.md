@@ -30,11 +30,11 @@ Dokumentierte Projekte und Anwendungen
 - [Interior Projects](/projects/interior/) 
 
 ##  [Network](/network/)  
-- [Regional Availability](/network/regional-availability/) - 
+- [Regional Availability](/network/regional-availability/) 
 - [Dairy Farms by Province](/network/dairy-farms/) 
-- [Architects](/network/architects/) - Partner-Architekten
+- [Architects](/network/architects/) 
 - [Farms](/network/farms/) 
-- [Other](/network/other/) 
+
 
 
 ##  [About](/about/)
