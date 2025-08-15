@@ -20,11 +20,17 @@ Attention: Depending on the amount of clay in your soil, you need to adapt the r
 3. Remove silt from sand 
 4. Mix all ingredients well until no more lumps
 
+**Testing**
+
+For the best results, mix smaller amounts in different ratios and keep track of the compositions. Apply on a surface (eg. clay wall, plaster boeard, wood) and wait until dry. Spray water on all samples to see which one withstands best.
+
+![Local Shit Website](/images/testing1.jpg) 
+![Local Shit Website](/images/troubleshooting.jpg) 
+
 
 **Application:**
 Apply as finish coat for water resistance and binding.
 
-*Source: Heca, F. 2020*
 
 ## Extended Plaster Recipe 
 
@@ -67,9 +73,25 @@ Price: €€
 ![Local Shit Website](/images/compact_oiled.jpg)
 Above: Compact cow manure plaster finished with double boiled linseed oil
 
+**Linseed oil bee wax**
+Apply with brush or sponge. You might need to repeat multiple times to avoid stains. Appearance: Slightly darker, waxy finish
+Waterproof Ability: High - recommended for areas that are exposed to a lot of water like show- ers
+Price: €€€
+
+**Wheat paste**
+Recipe: 1 part flour, 2 parts cold water mixed, then added to 3 parts boiling water, cooked until thickened.
+Apply with brush.
+Appearance: Light, matt
+Waterproof Ability: Low - medium
+Price: €
+
+![Local Shit Website](/images/slurry_waxed_wheat.jpg) Above: Slurry cow manure top waxed bottom wheat paste finish
+
+
 ## Tips
 
 - Local clay can be easily found at construction / escavation sites
+- Color of the clay will influence the color of the plaster
 - Use fresh cowdung for best water resistance
 - Apply in multiple thin coats rather than one thick coat
 - Allow proper drying time between coats
