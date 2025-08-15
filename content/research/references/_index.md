@@ -3,9 +3,9 @@ title: "References & Bibliography"
 type: docs
 ---
 
-# References & Bibliography
 
-Wissenschaftliche Quellen und Referenzen für alle Forschungsinhalte.
+
+Scientific sources and references for all research content.
 
 ## Primary Sources
 
