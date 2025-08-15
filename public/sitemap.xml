@@ -34,6 +34,8 @@
   </url><url>
     <loc>http://localhost:1313/projects/interior/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/interior/interior-walls/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/interior/kitchen/</loc>
   </url><url>
     <loc>http://localhost:1313/research/future-development/</loc>

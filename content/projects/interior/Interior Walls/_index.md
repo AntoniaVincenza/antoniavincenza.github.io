@@ -4,13 +4,6 @@ type: docs
 ---
 
 
-
----
-title: "Interior Walls"
-type: docs
----
-
-
 **Stropaviljoen -  Heesch, NL**
 
 ![Local Shit Construction](/images/stropaviljeon.png)
