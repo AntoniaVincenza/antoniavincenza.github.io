@@ -3,26 +3,25 @@ title: "Definitions & Origins"
 type: docs
 ---
 
-# Definitions & Origins
 
-## Cowdung
+### Cow Dung
 
-Als Abfallressource von Kühen kann Kuhmist als unverdauter Rückstand von verzehrter Nahrung definiert werden.
+As a waste resource from cows, cow dung can be defined as the undigested residue of consumed food.
 
-Er ist reich an Mineralien wie Kalium, Magnesium und Phosphor, die gute Bindeeigenschaften haben. Kuhmist enthält typischerweise auch unverdaute Pflanzenfasern.
+It is rich in minerals such as potassium, magnesium, and phosphorus, which have good binding properties. Cow dung also typically contains undigested plant fiber.
 
 ## Origins
 
-In traditionellen Erdbauten in verschiedenen asiatischen und afrikanischen Ländern, wie Indien, Burkina Faso, Swasiland und Botswana, wird Kuhmist in Kombination mit Lehm als Putzverbindung oder Deckschicht für seine wasserabweisenden Eigenschaften verwendet.
+In traditional earthen buildings in various Asian and African countries, such as India, Burkina Faso, Swaziland, and Botswana, cow dung is used in combination with clay as a plaster compound or covering layer for its water-repellent properties.
 
-Besonders in Indien enthalten traditionelle Lehmputze hohe Mengen an Kuhmist. Diese Technik wird noch heute verwendet, neben industrialisierten Produkten, die den Abfall-Kuhmist indischer Betriebe nutzen.
+In India, in particular, traditional clay plasters contain high amounts of cow dung. This technique is still used today, alongside industrialized products that utilize waste cow dung from Indian farms.
 
 ## Water Resistance
 
-Der Grund, warum Kuhmist wasserdichte Eigenschaften hat, sind kleine mikrobielle Aggregate (SSMA), die aus tongroßen negativ geladenen Partikeln bestehen, die reich an Fettsäuren sind. SSMA machen etwa ein Drittel der Masse von Kuhmist aus.
+The reason cow dung has waterproofing properties is small microbial aggregates (SSMA), which consist of clay-sized, negatively charged particles rich in fatty acids. SSMA make up about one-third of the mass of cow dung.
 
-Aufgrund ihrer Form neigen Wassertropfen dazu, an den SSMA herunterzurutschen. Beim Trocknen haften die Partikel aneinander, wodurch ihre Oberfläche größer wird. Daher ist getrockneter Kuhmist weniger für die Verwendung geeignet als frischer Kuhmist.
+Due to their shape, water droplets tend to slide down the SSMA. As they dry, the particles adhere to each other, increasing their surface area. Therefore, dried cow dung is less suitable for use than fresh cow dung.
 
-Eine der dominanten Fettsäuren, die vorhanden ist und **OCTADECANOID ACID** genannt wird, wird auch bei der Herstellung superhydrophober Beschichtungen verwendet.
+One of the dominant fatty acids present, called octadecanoic acid, is also used in the production of superhydrophobic coatings.
 
-*Quelle: Kulshreshtha et al, 2022*
+*Source: Kulshreshtha et al., 2022*
