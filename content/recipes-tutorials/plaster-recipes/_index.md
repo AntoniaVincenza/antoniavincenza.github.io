@@ -31,6 +31,9 @@ For the best results, mix smaller amounts in different ratios and keep track of 
 **Application:**
 Apply as finish coat for water resistance and binding.
 
+Free download of detailed recipe & tutorial:
+<a href="/pdfs/WaterproofPlaster_Tutorial.pdf" target="_blank">Waterproof Plaster Basic Recipe</a> 
+
 
 ## Extended Plaster Recipe 
 
