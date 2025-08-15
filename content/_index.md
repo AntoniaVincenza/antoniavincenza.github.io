@@ -17,6 +17,8 @@ Scientific research about cow manure in architecture
 - [Nitrogen Crisis Research](/research/nitrogen-crisis/) 
 - [Future Development](/research/future-development/)
 
+![Local Shit Construction](/images/Scanfront.jpg)
+
 ##  [Recipes & Tutorials](/recipes-tutorials/)
 - [Adobe Bricks](/recipes-tutorials/adobe-bricks/) 
 - [Plaster Recipes](/recipes-tutorials/plaster-recipes/) 
@@ -28,6 +30,8 @@ Dokumentierte Projekte und Anwendungen
 - [Case Studies](/projects/case-studies/) 
 - [Exterior Projects](/projects/exterior/)
 - [Interior Projects](/projects/interior/) 
+
+![Local Shit Construction](/images/workshop8.jpg)
 
 ##  [Network](/network/)  
 - [Regional Availability](/network/regional-availability/) 
