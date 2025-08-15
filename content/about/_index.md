@@ -88,6 +88,7 @@ https://architectenweb.nl/nieuws/artikel.aspx?id=59464
 - **Cyriel Heemels** - Architect & Project Manager
 - **Nuno Vasconcelos** - Architect
 - **Joost Botteram**, Prehistoric Dorp Eindhoven - Head Technical Service
+- **Lydia Fraaie**, Collaborating Biomimicry Architect 
 
 
 ## Reach Out
@@ -98,14 +99,10 @@ Interested in collaborating or do you have questions about the project? Contact:
 - **Research Collaboration** - For scientific collaborations
 - **Farmer Partnerships** - For farmers with surplus manure
 - **Architect Network** - For planners and architects
-- **Material Testing** - For practical experiments
+- **Craftsmenship** - For craftsmen and women
 - **Scaling Opportunities** - For industrial applications
 
-### Get Involved
-- **Material Experiments** - Conduct your own tests
-- **Regional Networks** - Build local partnerships
-- **Knowledge Sharing** - Exchange experiences
-- **Policy Development** - Improve the regulatory framework
+
 
 *"Cowdung is a highly underrated material. Especially in places like the Netherlands, where there is an excess quantity available, its properties and benefits for the sustainable construction sector should be further researched and experimented with."*
 
