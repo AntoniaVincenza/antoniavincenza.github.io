@@ -8,6 +8,6 @@ These three panels demonstrate the waterproofing effect of cow manure on clay. D
 
 ![Local Shit Construction](/images/allpanels.jpg)
 ![Local Shit Construction](/images/conventional_erosion.jpg)
-![Local Shit Construction](/images/cslurry_waxed_wheat.jpg)
+![Local Shit Construction](/images/slurry_waxed_wheat.jpg)
 ![Local Shit Construction](/images/compact_untreated_oiled.jpg)
 
