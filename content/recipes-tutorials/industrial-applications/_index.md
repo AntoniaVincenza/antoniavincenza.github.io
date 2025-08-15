@@ -24,20 +24,4 @@ An industrially made product called **Vedic Plaster** uses cowdung from Indian f
 
 *Source: Choudhary, R., 2023*
 
-## Potential Industrial Scaling
 
-### Processing Options:
-- **Individual production on site**
-- **Small production on farm** 
-- **Large scale production**
-
-Each approach has different logistics, permits, and scale considerations for commercial viability.
-
-## Quality Standards
-
-Industrial applications require:
-- Consistent material properties
-- Standardized mixing procedures  
-- Quality control testing
-- Performance verification
-- Regulatory compliance
