@@ -18,5 +18,7 @@ Industrial applications and products
 ## [Calculations](/recipes-tutorials/calculations/)
 Calculations for material usage and area covered
 
-## PDFs zum Download
-Verfügbare Anleitungen und Tutorials als PDF.
+## PDFs Free Download
+Available recipes:
+
+<a href="pdfs/waterproofplaster_tutorial.pdf" target="_blank">Waterproof Plaster Basic Recipe</a> 
