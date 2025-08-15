@@ -17,4 +17,4 @@ Partnering Architects
 Collaborating Farms
 
 ## Reach Out
-Contact antoniavincena@icloud.com for all types of collaborations.
+Contact antoniavincenza@icloud.com for all types of collaborations.
