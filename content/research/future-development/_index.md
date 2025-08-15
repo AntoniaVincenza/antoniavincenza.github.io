@@ -30,38 +30,6 @@ When considering a structure based entirely on clay soil, cow dung, and sand, it
 
 *Source: Kulshreshtha, 2021; Kulshreshtha et al, 2022*
 
-## Future Research Directions
 
-### Material Science
-- **Fiber optimization** - Understanding optimal fiber content
-- **Particle size analysis** - Effect of different aggregate sizes
-- **Curing conditions** - Temperature and humidity optimization
-- **Additive research** - Natural binding enhancers
-
-### Application Methods
-- **Spray application** - Mechanized application techniques
-- **Prefabrication** - Factory-produced panels and components
-- **Quality control** - Standardized testing procedures
-- **Maintenance protocols** - Long-term performance strategies
-
-### Scale-up challenges
-- **Infrastructure development** - Processing facilities
-- **Regulatory compliance** - Building codes and standards
-- **Market acceptance** - Overcoming perception barriers
-- **Economic viability** - Cost-competitive production
-
-### Regional adaptation
-- **Climate-specific formulations** - Adapting to local weather
-- **Local material integration** - Regional soil and aggregate optimization
-- **Cultural acceptance** - Working with local building traditions
-- **Policy development** - Supporting regulations and incentives
-
-## Next Steps
-
-1. **Pilot Projects** - Small-scale demonstrations
-2. **Performance Testing** - Long-term durability studies
-3. **Stakeholder Engagement** - Building industry partnerships
-4. **Regulatory Pathway** - Working with building authorities
-5. **Market Development** - Commercial viability studies
 
 
