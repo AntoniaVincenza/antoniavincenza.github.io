@@ -3,21 +3,20 @@ title: "Recipes & Tutorials"
 type: docs
 ---
 
-# Recipes & Tutorials
 
-Praktische Anleitungen für nachhaltige Baumaterialien und Anwendungen.
+Here you can find practical tips and recipes for different products based on clay and cow manure.
 
 ## [Adobe Bricks](/recipes-tutorials/adobe-bricks/)
-Traditionelle Lehmsteine mit nachhaltigen Zusätzen
+Traditional bricks from clay and cow manure
 
 ## [Plaster Recipes](/recipes-tutorials/plaster-recipes/)
-Verschiedene Putzrezepte für unterschiedliche Anwendungen
+Different recipes for the production of plaster
 
 ## [Industrial Applications](/recipes-tutorials/industrial-applications/)
-Industrielle Anwendungen und Produkte
+Industrial applications and products
 
 ## [Calculations](/recipes-tutorials/calculations/)
-Berechnungen für Materialmengen und Flächenabdeckung
+Calculations for material usage and area covered
 
 ## PDFs zum Download
 Verfügbare Anleitungen und Tutorials als PDF.
