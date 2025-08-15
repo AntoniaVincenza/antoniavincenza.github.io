@@ -3,7 +3,6 @@ title: "Industrial Applications"
 type: docs
 ---
 
-# Industrial Applications
 
 ## Vedic Plaster - Commercial Product
 

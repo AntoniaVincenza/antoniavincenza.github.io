@@ -3,7 +3,6 @@ title: "Adobe Bricks"
 type: docs
 ---
 
-# Adobe Bricks
 
 ## Traditional Adobe Bricks Recipe
 

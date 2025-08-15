@@ -3,7 +3,6 @@ title: "Material Calculations"
 type: docs
 ---
 
-# Material Calculations
 
 ## Netherlands Plaster Production Potential
 
