@@ -4,5 +4,5 @@ type: docs
 ---
 
 
-##  [Stropaviljeon Heesch](/interior-walls/)
+##  [Stropaviljeon Heesch](/Interiorwalls/)
 
