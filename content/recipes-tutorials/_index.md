@@ -21,4 +21,4 @@ Calculations for material usage and area covered
 ## PDFs Free Download
 Available recipes:
 
-<a href="public/pdfs/WaterproofPlaster_Tutorial.pdf" target="_blank">Waterproof Plaster Basic Recipe</a> 
+<a href="/pdfs/WaterproofPlaster_Tutorial.pdf" target="_blank">Waterproof Plaster Basic Recipe</a> 
