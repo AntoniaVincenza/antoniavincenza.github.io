@@ -74,6 +74,7 @@ https://dutchdesigndaily.com/stories/antonia-vincenza-schreiber-winner-kazerne-d
 
 https://architectenweb.nl/nieuws/artikel.aspx?id=59464
 
+![Local Shit Construction](/images/Local_all_award.jpg)
 
 ## Team & Acknowledgments
 

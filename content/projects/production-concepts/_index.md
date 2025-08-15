@@ -3,7 +3,7 @@ title: "Production Concepts"
 type: docs
 ---
 
-# Production Concepts
+
 
 Verschiedene Ansätze für die Produktion und Logistik nachhaltiger Baumaterialien.
 
