@@ -6,8 +6,11 @@ type: docs
 
 Overview of projects and studies
 
-## [Case Studies](/projects/case-studies/)
-Dokumentierte Projekte und Experimente
+## [Case Study](/projects/case-studies/)
+Genneper Hoeve -  Eindhoven,NL
+
+## [Clay VS Cow Manure](/projects/clayvscowmanure/)
+Demonstration of the waterproofing effect of cow manure.
 
 ## [Exterior Projects](/projects/exterior/)
 - [Fassades](/projects/exterior/fassades/)
@@ -15,6 +18,7 @@ Dokumentierte Projekte und Experimente
 
 ## [Interior Projects](/projects/interior/)
 - [Bathroom](/projects/interior/bathroom/)
+- [Interior Walls](/projects/interior/interiorwalls/)
 - [Kitchen](/projects/interior/kitchen/)
 
 ## [Production Concepts](/projects/production-concepts/)
