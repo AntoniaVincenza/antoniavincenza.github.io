@@ -14,7 +14,8 @@ The plaster was applied on primed osb sheets in two layers. In the first rough l
 
 ![Local Shit Construction](/images/workshop9.jpg)
 ![Local Shit Construction](/images/workshop5.jpg)
-![Local Shit Construction](/images/workshop7.jpg)
 ![Local Shit Construction](/images/workshop1.jpg)
+![Local Shit Construction](/images/workshop7.jpg)
+
 
 
