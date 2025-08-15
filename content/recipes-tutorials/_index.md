@@ -15,9 +15,6 @@ Different recipes for the production of plaster
 ## [Industrial Applications](/recipes-tutorials/industrial-applications/)
 Industrial applications and products
 
-## [Calculations](/recipes-tutorials/calculations/)
-Calculations for material usage and area covered
-
 ## PDFs Free Download
 Available recipes:
 

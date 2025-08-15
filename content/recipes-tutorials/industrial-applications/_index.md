@@ -24,4 +24,3 @@ An industrially made product called **Vedic Plaster** uses cowdung from Indian f
 
 *Source: Choudhary, R., 2023*
 
-
