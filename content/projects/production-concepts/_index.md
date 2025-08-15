@@ -5,7 +5,7 @@ type: docs
 
 
 
-Verschiedene Ansätze für die Produktion und Logistik nachhaltiger Baumaterialien.
+There are different possible ways of upscaling the production. Since the waterproofing effect is best when the manure is fresh, producung in advance is difficult. A large scale production would therefore only be possible with dried manure.
 
 ## Individual Production On Site
 
@@ -71,6 +71,7 @@ Each production model involves different stakeholders:
 - **Processing companies** (manufacturing)
 - **Retailers** (distribution)
 - **Contractors** (application)
+- **Craftsmen/women** (execution)
 - **Clients** (end users)
 - **Architects** (specification)
 
