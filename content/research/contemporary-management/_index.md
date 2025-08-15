@@ -3,30 +3,28 @@ title: "Contemporary Manure Management"
 type: docs
 ---
 
-# Contemporary Manure Management
-
 ## Collection & Separation Systems
 
 ### Traditional Floor Systems
-Urin und Exkremente vermischen sich in Güllekellern
+Urine and excrement mix in manure storage tanks
 
-### Modern Floor Systems  
-Exkremente werden abgeschabt, während Urin abgeleitet wird
+### Modern Floor Systems
+Excrement is scraped off while urine is drained away
 
-## Long Term Storage & Applications
+## Long-Term Storage & Applications
 
 ### Current Applications
-- **Biogas plant** - Energiegewinnung
-- **Field fertilizer** - Traditionelle Landwirtschaft
-- **Decanter processing** - Flüssigkeit aus Gülle pressen
-- **Pellets** - Getrocknete Produkte
-- **Powder** - Pulverisierte Form
+- **Biogas plant** - Energy generation
+- **Field fertilizer** - Traditional agriculture
+- **Decanter processing** - Pressing liquid from manure
+- **Pellets** - Dried products
+- **Powder** - Powdered form
 
 ### Problems in Current Management
-- **Overproduction**: Viel mehr Gülle als Land zum Düngen verfügbar
-- **Harmful gases**: Schädliche Gase wie Ammoniak und Methan entstehen, sobald sich Urin und Exkremente vermischen
-- **Strict regulations**: Strenge staatliche Vorschriften zum Güllemanagement
-- **Limited building industry use**: Sehr wenige Produkte in der Bauindustrie
+- **Overproduction**: Much more manure than land available for fertilization
+- **Harmful gases**: Harmful gases such as ammonia and methane are produced when urine and excrement mix
+- **Strict regulations**: Strict government regulations on manure management
+- **Limited building industry use**: Very few products in the construction industry
 
 ## Future Opportunities
-Die Bauindustrie bietet enormes Potenzial für die nachhaltige Nutzung von Überschussgülle als alternatives Baumaterial.
+The construction industry offers enormous potential for the sustainable use of surplus manure as an alternative building material.
