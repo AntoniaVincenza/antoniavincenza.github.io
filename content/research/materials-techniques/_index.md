@@ -23,8 +23,19 @@ The addition of cow dung to cementitious materials extends the initial and final
 
 The composition of the materials varies greatly depending on the additives and the desired result. Since cow dung has not only waterproofing but also stabilizing properties, it is also used to make stabilized earth blocks.
 
-**In general, it can be said:**
+According to Katale et al, 2014; Kulshreshtha et al, 2022; Worku et al, 2023*:
 - **Soil** (depending on the soil type) mixed with cow dung has higher compressive strength but lower water resistance
 - **Sand** mixed with cow dung has higher waterproofing properties but lower strength
 
-*Sources: Katale et al, 2014; Kulshreshtha et al, 2022; Worku et al, 2023*
+Experience from **Local Shit Plaster** experiments:
+- **Clay** acts as glue
+- Larger amounts of **Sand** in base or first layer provide *compressive strenght*
+- Larger amounts of **Cow manure** in last layer provide *flexural strenght* and waterproofing effect
+
+Advantages of larger amounts of **Cow manure**:
+- Reduces weight of the material - easier application
+- Depth of color
+- Higher waterproofability
+
+
+
