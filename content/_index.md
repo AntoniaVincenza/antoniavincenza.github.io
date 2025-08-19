@@ -30,6 +30,8 @@ Documented projects and applications
 - [Case Studies](/projects/case-studies/) 
 - [Exterior Projects](/projects/exterior/)
 - [Interior Projects](/projects/interior/) 
+- [Clay vs Cow Manure](/projects/clayvscowmanure/) 
+- [Workshops](/projects/workshops/) 
 
 ![Local Shit Construction](/images/workshop8.jpg)
 
