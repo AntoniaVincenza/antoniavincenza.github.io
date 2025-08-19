@@ -74,6 +74,9 @@ https://dutchdesigndaily.com/stories/antonia-vincenza-schreiber-winner-kazerne-d
 
 https://architectenweb.nl/nieuws/artikel.aspx?id=59464
 
+https://www.ed.nl/eindhoven/eindhovense-designprijs-voor-innovatief-gebruik-van-mest-in-de-bouw~a2cca6b7/?referrer=https%3A%2F%2Fwww.google.com%2F
+
+
 ![Local Shit Construction](/images/all_award.jpg)
 
 ## Team & Acknowledgments
