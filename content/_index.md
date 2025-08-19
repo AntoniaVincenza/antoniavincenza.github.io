@@ -26,7 +26,7 @@ Scientific research about cow manure in architecture
 - [Calculations](/recipes-tutorials/calculations/) 
 
 ##  [Projects](/projects/)
-Dokumentierte Projekte und Anwendungen
+Documented projects and applications
 - [Case Studies](/projects/case-studies/) 
 - [Exterior Projects](/projects/exterior/)
 - [Interior Projects](/projects/interior/) 
