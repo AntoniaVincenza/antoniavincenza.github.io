@@ -4,6 +4,6 @@ type: docs
 ---
 
 
-##  [Stropaviljeon Heesch](/projects/interior/interiorwalls/)
+##  [Stropaviljoen Heesch](/projects/interior/interiorwalls/)
 ![Local Shit Construction](/images/workshop1.jpg)
 
