@@ -9,6 +9,8 @@ In collaboration with architect Lydia Fraaie and Nadja van Hemmen-van Driel we o
 
 If you would like to host a workshop in collaboration with us, please contact: antoniavincenza@icloud.com
 
+![Local Shit Construction](/images/LocalShitWorkshop-Flyer4.jpg)
+
 ![Local Shit Construction](/images/workshop8.jpg)
 
 ![Local Shit Construction](/images/workshop9.jpg)
