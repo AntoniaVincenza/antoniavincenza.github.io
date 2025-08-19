@@ -23,3 +23,6 @@ Demonstration of the waterproofing effect of cow manure.
 
 ## [Production Concepts](/projects/production-concepts/)
 Theoretical upscaling of production.
+
+## [Workshops](/projects/workshops/)
+Theoretical and practical knowledge in hands-on workshops.
