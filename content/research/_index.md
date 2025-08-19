@@ -19,7 +19,7 @@ This page contains all research and publications produced for the **Local Shit**
 
 **Local Shit used in Architectural Concept by Paula Lena Braun:**
 
-<a href="/pdfs/Drechslerei_braun_moseke.pdf" target="_blank">Drechslerei_braun_moseke</a> 
+<a href="/pdfs/drechslerei_braun_moseke.pdf" target="_blank">Drechslerei_braun_moseke</a> 
 
 
 **Local Shit Production Cycle Research by InHolland Honours Students 2025:**
